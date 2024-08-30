@@ -8,7 +8,7 @@
     <p>
     <h1>Welcome to my page!</h1>
         <h3> About Me</h3>
-    <p>Hello! I’m Victoria Clarize Lozada, a 3rd year, BSIS student of WVVSU and budding entrepreneur. I’m passionate about exploring new business opportunities and eager to share my journey with others</p>
+    <p>Hello! I’m Victoria Clarize Lozada, a 3rd year, BSIS student of WVSU and budding entrepreneur. I’m passionate about exploring new business opportunities and eager to share my journey with others</p>
 
 </body>
 </html>
