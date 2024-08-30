@@ -16,6 +16,8 @@
 	<strong>Date Started:</strong>    March 19,2023l<br>
 	<strong>Location:</strong>        Villa, Arevalo, Iloilo City<br>
 	<strong>Specialty:</strong>       Marinated pork,chicken and beef and 5 varities of side dishes
+	<strong>Concept:</strong>         Korean-inspired<br>
+	<strong>Restaurant Theme:</strong>      Pallets with simple aesthetic lighting<br>
 </p>
  
 
