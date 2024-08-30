@@ -6,7 +6,7 @@
   </head>
 <body>
     <p>
-    <center></center><h1>A walkthrough of my business journey: small samgyupsal business</h1></center>
+    <center><h1>A walkthrough of my business journey: small samgyupsal business</h1></center>
  <h2 id="me"> Introduction</h3>
  <p>Hello! I’m Victoria Clarize Lozada, a third-year BSIS student at WVSU and an aspiring entrepreneur. I’m passionate about exploring new business opportunities and excited to share my journey with others. My family has a deep-rooted passion for cooking, and we specialize in preparing homemade meals delivered through food riders. At 17, I first conceived the idea of starting a business and presented a proposal to my mother and older siblings. This led to the opening of our first physical restaurant.
 
