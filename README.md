@@ -2,22 +2,6 @@
 <html>
 
     <title>My Introduction</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-        }
-        h1 {
-            color: #0056b3;
-        }
-        p {
-            font-size: 18px;
-        }
-    </style>
 </head>
 <body>
     <h1>Welcome to My Page!</h1>
