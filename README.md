@@ -10,10 +10,8 @@
         <h3> About Me</h3>
  <p>Hello! I’m Victoria Clarize Lozada, a 3rd year, BSIS student of WVSU and budding entrepreneur. I’m passionate about exploring new business opportunities and eager to share my journey with others.</p>
 
-<strong><h3 id="deets"> About the business</h3>
+<strong><h2 id="deets"> About the business</h2>
 <hr>
- 
-
 <p>
 	<p><strong>Name:</strong> Nikie Jo Elauria Deocampo</p>
 	<p><strong>Country:</strong></h4> Philippines</p>
