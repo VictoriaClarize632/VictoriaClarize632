@@ -12,8 +12,8 @@
 
 <strong><h2 id="deets"> About the Business</h2>
 <p>
-	Business Name:Bangkete Samgyupsal
-	Date Started:March 19,2023
+	Business Name:Bangkete Samgyupsal<br>
+	Date Started:March 19,2023<br>
  	Location:Villa, Arevalo, Iloilo City
 	
 </p>
