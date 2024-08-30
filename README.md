@@ -7,7 +7,7 @@
 <body>
     <p>
     <h2>A walkthrough of my business journey: small samgyupsal business</h2>
-	    <img src="https://i.pinimg.com/564x/6c/27/73/6c27739b72419b5fe9b3c0265da1b99b.jpg" alt="Samgyupsal Business" width="600">
+<img src="https://i.pinimg.com/564x/6c/27/73/6c27739b72419b5fe9b3c0265da1b99b.jpg" alt="Samgyupsal Business" width="600">
     <hr>
     <br>
 		<h2>Overview of the Subject</h2>
