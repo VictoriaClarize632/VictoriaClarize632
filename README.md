@@ -10,6 +10,6 @@
     <p>Currently, I'm working on opening a Korean BBQ business and exploring new technologies like 6G. I'm also learning more about programming and overcoming challenges along the way.</p>
 
 
-    <p>[Insert additional content here]</p>
+    <p>hello</p>
 </body>
 </html>
