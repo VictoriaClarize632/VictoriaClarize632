@@ -12,9 +12,9 @@
 
 <strong><h2 id="deets"> About the Business</h2>
 <p>
-	<strong>Business Name:</strong>Nikie Jo Elauria Deocampo
-	<p><strong>Country:</strong></h4> Philippines</p>
-	<p><strong>Educational Background:</strong>
+	Business Name:Bangkete Samgyupsal
+	Date Started:March 19,2023
+ 	Location:Villa, Arevalo, Iloilo City
 	
 </p>
  
