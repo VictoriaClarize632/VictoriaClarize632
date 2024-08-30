@@ -15,14 +15,7 @@
 	<strong>Business Name:</strong><p>Nikie Jo Elauria Deocampo</p>
 	<p><strong>Country:</strong></h4> Philippines</p>
 	<p><strong>Educational Background:</strong>
-		<p>
-			<p><u>Undergraduate:</u></strong> Bachelor of Science in Information System</p>
-			<p><u>Graduate:</u></strong> Masters in Information Technology</p>
-			<p><u>School:</u></strong> West Visayas State University</p>
-		</p>
-	</p>
-	<p><strong>Mentor:</strong> Dr. Bobby Gerardo</p>
-	<p><strong>Motto:</strong> I work hard so my dog can have a better life.</p>
+	
 </p>
  
 
