@@ -15,9 +15,7 @@
 	<strong>Business Name:</strong>   Bangkete Samgyupsal<br>
 	<strong>Date Started:</strong>    March 19,2023l<br>
 	<strong>Location:</strong>        Villa, Arevalo, Iloilo City
-
- 
-	
+	<strong>Specialty:</strong>       Marinated pork,chicken and beef and 5 varities of side dishes
 </p>
  
 
