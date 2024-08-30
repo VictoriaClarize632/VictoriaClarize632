@@ -11,8 +11,8 @@
  <p>Hello! I’m Victoria Clarize Lozada, a third-year BSIS student at WVSU and an aspiring entrepreneur. I’m passionate about exploring new business opportunities and excited to share my journey with others. My family has a deep-rooted passion for cooking, and we specialize in preparing homemade meals delivered through food riders. At 17, I first conceived the idea of starting a business and presented a proposal to my mother and older siblings. This led to the opening of our first physical restaurant.
 
 
-<center><h2 id="deets"> About the Business</h2>
-<p><
+<center><h2 id="deets"> About the Business</h2> </center>
+<p><center>
 	<strong>Business Name:</strong>   Bangkete Samgyupsal<br>
 	<strong>Date Started:</strong>    March 19,2023<br>
 	<strong>Location:</strong>        Villa, Arevalo, Iloilo City<br>
