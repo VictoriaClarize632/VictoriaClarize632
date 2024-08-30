@@ -12,7 +12,7 @@
 
 <strong><h2 id="deets"> About the Business</h2>
 <p>
-	<strong>Business Name:</strong><p>Nikie Jo Elauria Deocampo</p>
+	<strong>Business Name:</strong>Nikie Jo Elauria Deocampo
 	<p><strong>Country:</strong></h4> Philippines</p>
 	<p><strong>Educational Background:</strong>
 	
