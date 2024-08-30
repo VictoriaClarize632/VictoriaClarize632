@@ -12,9 +12,11 @@
 
 <h2 id="deets"> About the Business</h2>
 <p>
-	<strong>Business Name:</strong>Bangkete Samgyupsal<br>
-	Date Started:March 19,2023<br>
- 	Location:Villa, Arevalo, Iloilo City
+	<strong>Business Name:</strong>   Bangkete Samgyupsal<br>
+	<strong>Date Started:</strong>    March 19,2023l<br>
+	<strong>Location:</strong>        Villa, Arevalo, Iloilo City
+
+ 
 	
 </p>
  
