@@ -10,9 +10,9 @@
         <h3> About Me</h3>
  <p>Hello! I’m Victoria Clarize Lozada, a 3rd year, BSIS student of WVSU and budding entrepreneur. I’m passionate about exploring new business opportunities and eager to share my journey with others.</p>
 
-<strong><h2 id="deets"> About the Business</h2>
+<h2 id="deets"> About the Business</h2>
 <p>
-	Business Name:Bangkete Samgyupsal<br>
+	<strong>Business Name:</strong>Bangkete Samgyupsal<br>
 	Date Started:March 19,2023<br>
  	Location:Villa, Arevalo, Iloilo City
 	
