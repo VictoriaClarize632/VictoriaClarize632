@@ -11,6 +11,7 @@
  <p>Hello! I’m Victoria Clarize Lozada, a 3rd year, BSIS student of WVSU and budding entrepreneur. I’m passionate about exploring new business opportunities and eager to share my journey with others.</p>
 
 <strong><h3 id="deets"> About the business</h3>
+<hr>
  
 
 <p>
