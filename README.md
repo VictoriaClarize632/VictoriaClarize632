@@ -3,24 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  </head>
+    <title>Business Journey</title>
+</head>
 <body>
-    <p>
-    <center><h1>A walkthrough of my business journey: small samgyupsal business</h1></center>
- <h2 id="me"> Introduction</h3>
- <p>Hello! I’m Victoria Clarize Lozada, a third-year BSIS student at WVSU and an aspiring entrepreneur. I’m passionate about exploring new business opportunities and excited to share my journey with others. My family has a deep-rooted passion for cooking, and we specialize in preparing homemade meals delivered through food riders. At 17, I first conceived the idea of starting a business and presented a proposal to my mother and older siblings. This led to the opening of our first physical restaurant.
+    <h1 style="text-align: center;">A Walkthrough of My Business Journey: Small Samgyupsal Business</h1>
+    <h2 id="me">Introduction</h2>
+    <p>Hello! I’m Victoria Clarize Lozada, a third-year BSIS student at WVSU and an aspiring entrepreneur. I’m passionate about exploring new business opportunities and excited to share my journey with others. My family has a deep-rooted passion for cooking, and we specialize in preparing homemade meals delivered through food riders. At 17, I first conceived the idea of starting a business and presented a proposal to my mother and older siblings. This led to the opening of our first physical restaurant.</p>
 
+    <!-- Insert Image Here -->
+    <img src="https://www.seriouseats.com/thmb/lGy5bG8MW5ct_ScoTqzRzQKlx1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/korean-barbecue-pork-belly-hero-4-3bfa61e1ff1b4b7b8d41803dce160af5.jpg" alt="Korean BBQ" style="display: block; margin-left: auto; margin-right: auto;">
 
-<center><h2 id="deets"> About the Business</h2> </center>
-<p><center>
-	<strong>Business Name:</strong>   Bangkete Samgyupsal<br>
-	<strong>Date Started:</strong>    March 19,2023<br>
-	<strong>Location:</strong>        Villa, Arevalo, Iloilo City<br>
-	<strong>Specialty:</strong>       Marinated pork,chicken and beef and 5 varities of side dishes<br>
-	<strong>Concept:</strong>         Korean-inspired<br>
-	<strong>Restaurant Theme:</strong>      Pallets with simple aesthetic lighting<br>
-</p></center>
-<img src="https://ph.pinterest.com/pin/896075657103282626/.jpg" alt="quote" class="image1">
-
+    <h2 id="deets" style="text-align: center;">About the Business</h2>
+    <p style="text-align: center;">
+        <strong>Business Name:</strong> Bangkete Samgyupsal<br>
+        <strong>Date Started:</strong> March 19, 2023<br>
+        <strong>Location:</strong> Villa, Arevalo, Iloilo City<br>
+        <strong>Specialty:</strong> Marinated pork, chicken, and beef with 5 varieties of side dishes<br>
+        <strong>Concept:</strong> Korean-inspired<br>
+        <strong>Restaurant Theme:</strong> Pallets with simple aesthetic lighting<br>
+    </p>
 </body>
 </html>
