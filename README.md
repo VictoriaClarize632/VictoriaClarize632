@@ -9,6 +9,10 @@
     <h1 style="text-align: center;">A Walkthrough of My Business Journey: Small Samgyupsal Business</h1>
     <h2 id="me">Introduction</h2>
     <p>Hello! I’m Victoria Clarize Lozada, a third-year BSIS student at WVSU and an aspiring entrepreneur. I’m passionate about exploring new business opportunities and excited to share my journey with others. My family has a deep-rooted passion for cooking, and we specialize in preparing homemade meals delivered through food riders. At 17, I first conceived the idea of starting a business and presented a proposal to my mother and older siblings. This led to the opening of our first physical restaurant.</p>
+    
+    <!-- Add image -->
+    <img src="https://images.unsplash.com/photo-1567502908-1234567890ab" alt="Korean BBQ" style="display: block; margin: 0 auto; width: 50%;">
+
     <h2 id="deets" style="text-align: center;">About the Business</h2>
     <p style="text-align: center;">
         <strong>Business Name:</strong> Bangkete Samgyupsal<br>
@@ -20,4 +24,3 @@
     </p>
 </body>
 </html>
-
