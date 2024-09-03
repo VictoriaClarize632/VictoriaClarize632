@@ -3,77 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Business Journey</title>
+    <title>Victoria's Korean BBQ</title>
 </head>
 <body>
-    <h1 style="text-align: center;">A Walkthrough of My Business Journey: Small Samgyupsal Business</h1>
-    <h2 id="me">Introduction</h2>
-    <p>Hello! I’m Victoria Clarize Lozada, a third-year BSIS student at WVSU and an aspiring entrepreneur. I’m passionate about exploring new business opportunities and excited to share my journey with others. My family has a deep-rooted passion for cooking, and we specialize in preparing homemade meals delivered through food riders. At 17, I first conceived the idea of starting a business and presented a proposal to my mother and older siblings. This led to the opening of our first physical restaurant.</p>
+    <header>
+        <h1>Welcome to Victoria's Korean BBQ</h1>
+    </header>
+    
+    <section>
+        <h2>About Me</h2>
+        <p>Hello! My name is Victoria. I am a student and a business owner with a passion for Korean BBQ. I've always loved the rich flavors and the communal dining experience that Korean BBQ offers. My goal is to bring this authentic experience to our community and share the joy of great food with everyone!</p>
+        <img src="https://via.placeholder.com/300" alt="Victoria's Picture">
+    </section>
+    
+    <section>
+        <h2>About the Business</h2>
+        <p>Victoria's Korean BBQ is all about creating a warm and inviting atmosphere where you can enjoy delicious Korean BBQ with family and friends. We use high-quality ingredients and traditional recipes to ensure every meal is a memorable one. Whether you're a Korean BBQ enthusiast or new to this cuisine, we promise you'll have a fantastic experience!</p>
+        <img src="https://via.placeholder.com/300" alt="Korean BBQ Picture">
+    </section>
 
-    <!-- Insert Image Here -->
-    <img src="https://www.seriouseats.com/thmb/lGy5bG8MW5ct_ScoTqzRzQKlx1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/korean-barbecue-pork-belly-hero-4-3bfa61e1ff1b4b7b8d41803dce160af5.jpg" alt="Korean BBQ" style="display: block; margin-left: auto; margin-right: auto;">
-
-    <h2 id="deets" style="text-align: center;">About the Business</h2>
-    <p style="text-align: center;">
-        <strong>Business Name:</strong> Bangkete Samgyupsal<br>
-        <strong>Date Started:</strong> March 19, 2023<br>
-        <strong>Location:</strong> Villa, Arevalo, Iloilo City<br>
-        <strong>Specialty:</strong> Marinated pork, chicken, and beef with 5 varieties of side dishes<br>
-        <strong>Concept:</strong> Korean-inspired<br>
-        <strong>Restaurant Theme:</strong> Pallets with simple aesthetic lighting<br>
-    </p>
-</body>
-</html>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  </head>
-<body>
-    <p>
-    <h1>A walkthrough of my business journey: small samgyupsal business</h1>
- <h2 id="me"> Introduction</h3>
- <p>Hello! I’m Victoria Clarize Lozada, a third-year BSIS student at WVSU and an aspiring entrepreneur. I’m passionate about exploring new business opportunities and excited to share my journey with others. My family has a deep-rooted passion for cooking, and we specialize in preparing homemade meals delivered through food riders. At 17, I first conceived the idea of starting a business and presented a proposal to my mother and older siblings. This led to the opening of our first physical restaurant.
-
-
-<center><h2 id="deets"> About the Business</h2> </center>
-<p><center>
-	<strong>Business Name:</strong>   Bangkete Samgyupsal<br>
-	<strong>Date Started:</strong>    March 19,2023<br>
-	<strong>Location:</strong>        Villa, Arevalo, Iloilo City<br>
-	<strong>Specialty:</strong>       Marinated pork,chicken and beef and 5 varities of side dishes<br>
-	<strong>Concept:</strong>         Korean-inspired<br>
-	<strong>Restaurant Theme:</strong>      Pallets with simple aesthetic lighting<br>
-</p></center>
- 
-
-</body>
-</html>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  </head>
-<body>
-    <p>
-    <h1>A walkthrough of my business journey: small samgyupsal business</h1>
- <h2 id="me"> Introduction</h3>
- <p>Hello! I’m Victoria Clarize Lozada, a third-year BSIS student at WVSU and an aspiring entrepreneur. I’m passionate about exploring new business opportunities and excited to share my journey with others. My family has a deep-rooted passion for cooking, and we specialize in preparing homemade meals delivered through food riders. At 17, I first conceived the idea of starting a business and presented a proposal to my mother and older siblings. This led to the opening of our first physical restaurant.
-
-
-<center><h2 id="deets"> About the Business</h2> </center>
-<p><center>
-	<strong>Business Name:</strong>   Bangkete Samgyupsal<br>
-	<strong>Date Started:</strong>    March 19,2023<br>
-	<strong>Location:</strong>        Villa, Arevalo, Iloilo City<br>
-	<strong>Specialty:</strong>       Marinated pork,chicken and beef and 5 varities of side dishes<br>
-	<strong>Concept:</strong>         Korean-inspired<br>
-	<strong>Restaurant Theme:</strong>      Pallets with simple aesthetic lighting<br>
-</p></center>
- 
-
+    <footer>
+        <p>Thank you for visiting Victoria's Korean BBQ. We look forward to serving you!</p>
+    </footer>
 </body>
 </html>
