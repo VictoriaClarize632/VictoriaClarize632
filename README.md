@@ -25,8 +25,7 @@
         <strong>Concept:</strong> Korean-inspired<br>
         <strong>Restaurant Theme:</strong> Pallets with simple aesthetic lighting<br>
         <strong>Social Media:<strong><a href="https://facebook.com/bangketesamgyupsal" target="_blank">Bangkete Samgyupsal</a>
-
-    <h2 id="proposal">INTERIOR CONCEPT</h2>
+<h2 id="proposal">INTERIOR CONCEPT</h2>
     <br>
     <div style="text-align: center;">
         <img src="https://i.pinimg.com/originals/08/76/2b/08762bdf900ab4909bd3262afbf4edc5.jpg" alt="s3" style="display: inline-block; width: 50%; height: auto;">
