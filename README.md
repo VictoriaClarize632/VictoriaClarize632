@@ -24,7 +24,7 @@
         <strong>Specialty:</strong> Marinated pork, chicken, and beef with 5 varieties of side dishes<br>
         <strong>Concept:</strong> Korean-inspired<br>
         <strong>Restaurant Theme:</strong> Pallets with simple aesthetic lighting<br>
-        <strong>Social Media:<strong> <a href="https://facebook.com/bangketesamgyupsal" target="_blank">Bangkete Samgyupsal</a></strong>
+        <strong>Social Media:</strong> <a href="https://facebook.com/bangketesamgyupsal" target="_blank">Bangkete Samgyupsal</a>
 <h2 id="proposal">INTERIOR CONCEPT</h2>
     <br>
     <div style="text-align: center;">
