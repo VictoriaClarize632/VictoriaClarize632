@@ -17,10 +17,12 @@
         <strong>Date Started:</strong> March 19, 2023<br>
         <strong>Date Closed:</strong> January 10, 2024<br>
         <strong>Tentative Date of Re-opening:</strong> December 1, 2024<br>
-         <strong>Location:</strong> Villa, Arevalo, Iloilo City<br> 
+         <strong>Original Location:</strong> Villa, Arevalo, Iloilo City<br> 
+        <strong>New Location:</strong> Maria Clara, Iloilo City<br> 
         <strong>Specialty:</strong> Marinated pork, chicken, and beef with 5 varieties of side dishes<br>
         <strong>Concept:</strong> Korean-inspired<br>
         <strong>Restaurant Theme:</strong> Pallets with simple aesthetic lighting<br>
     </p>
+    <h2 id="proposal"> <img src="https://i.pinimg.com/originals/08/76/2b/08762bdf900ab4909bd3262afbf4edc5.jpg" alt="s1" class="image2"></h2>
 </body>
 </html>
