@@ -7,9 +7,9 @@
 <body>
     <h1>A Walkthrough of My Business Journey: Small Samgyupsal Business</h1>
     <div style="text-align: center;">
-        <img src="https://i.pinimg.com/originals/2e/9c/b5/2e9cb5c4d02abad033e3f98b4b2b6cae.jpg" alt="samgyupsal" style="display: inline-block; width: 32%; height: auto;">
+        <img src="https://i.pinimg.com/originals/2e/9c/b5/2e9cb5c4d02abad033e3f98b4b2b6cae.jpg" alt="samgyupsal" style="display: inline-block; width: 50%; height: auto;">
         <img src="https://i.pinimg.com/originals/90/e8/b9/90e8b916674d55f4ca6bd457dca0ccf2.jpg" alt="s1" style="display: inline-block; width: 32%; height: auto;">
-        <img src="https://i.pinimg.com/originals/0f/23/df/0f23dff9cbae62ef6a378c0daab50ced.jpg" alt="s2" style="display: inline-block; width: 32%; height: auto;">
+        <img src="https://i.pinimg.com/originals/0f/23/df/0f23dff9cbae62ef6a378c0daab50ced.jpg" alt="s2" style="display: inline-block; width: 50%; height: auto;">
     </div><br>
     <h2 id="me">INTRODUCTION</h2>
     <p>Hello! I’m Victoria Clarize Lozada, a third-year BSIS student at WVSU and an aspiring entrepreneur. I’m passionate about exploring new business opportunities and excited to share my journey with others. My family has a deep-rooted passion for cooking, and we specialize in preparing homemade meals delivered through food riders. At 17, I first conceived the idea of starting a business and presented a proposal to my mother and older siblings. This led to the opening of our first physical restaurant. Sadly, a few months ago, we had to give up the business due to the lack of manpower and failure to manage the business properly. After some time, a new opportunity was given to us to reopen again this year. Thus, I will be sharing below the proposed concept in my mind.</p> 
