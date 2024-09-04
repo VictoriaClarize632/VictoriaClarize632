@@ -33,5 +33,12 @@
     </div><br>
     <p>"We want to maintain our identity as a simple samgyupsal restaurant with the use of pallets for our tables and chairs, complemented by the warm glow of aesthetic lights. This combination not only reflects our commitment to a cozy and inviting atmosphere but also emphasizes the rustic charm that makes our dining experience unique. Our goal is to create a space where customers feel at home, enjoying authentic flavors in a setting that’s both relaxed and visually appealing. As we move forward, preserving this ambiance will remain at the heart of our brand, ensuring that each visit is as memorable as the first."</p>
     <br>
+    <h2 id="contact">CONTACT US</h2>
+    <p><strong>Phone:</strong> +63 912 345 6789</p>
+    <p><strong>Email:</strong> info@bangketesamgyupsal.com</p>
+    <p><strong>Address:</strong> Maria Clara, Iloilo City, Philippines</p>
+    <p><strong>Follow Us:</strong></p>
+    <p><a href="https://facebook.com/bangketesamgyupsal" target="_blank">Facebook</a></p>
+    <p><a href="https://instagram.com/bangketesamgyupsal" target="_blank">Instagram</a></p>
 </body>
 </html>
