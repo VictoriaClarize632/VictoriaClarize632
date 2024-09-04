@@ -7,7 +7,7 @@
 <body>
     <h1 style="text-align: center;">A Walkthrough of My Business Journey: Small Samgyupsal Business</h1>
     <img src="https://i.pinimg.com/originals/2e/9c/b5/2e9cb5c4d02abad033e3f98b4b2b6cae.jpg" alt="samgyupsal" class="image1">
-    <h2 id="me">INTRODUCTION</h2>
+    <h2 id="me" style="text-align: center;">INTRODUCTION</h2>
     <p>Hello! I’m Victoria Clarize Lozada, a third-year BSIS student at WVSU and an aspiring entrepreneur. I’m passionate about exploring new business opportunities and excited to share my journey with others. My family has a deep-rooted passion for cooking, and we specialize in preparing homemade meals delivered through food riders. At 17, I first conceived the idea of starting a business and presented a proposal to my mother and older siblings. This led to the opening of our first physical restaurant. Sadly, a few months ago, we had to give up the business due to the lack of manpower and failure to manage the business properly. After some time, a new opportunity was given to us to reopen again this year. Thus, I will be sharing below the proposed concept in my mind.</p> 
     <h2 id="deets" style="text-align: center;">ABOUT THE BUSINESS</h2>
     <p style="text-align: center;">
@@ -21,12 +21,12 @@
         <strong>Concept:</strong> Korean-inspired<br>
         <strong>Restaurant Theme:</strong> Pallets with simple aesthetic lighting<br>
     </p>
-    <h2 id="proposal">INTERIOR CONCEPT</h2>
+    <h2 id="proposal" style="text-align: center;">INTERIOR CONCEPT</h2>
     <br>
     <div style="text-align: center;">
-        <img src="https://i.pinimg.com/originals/08/76/2b/08762bdf900ab4909bd3262afbf4edc5.jpg" alt="s1" style="display: inline-block; vertical-align: top; width: 50%; height: auto;">
-        <img src="https://i.pinimg.com/originals/46/e1/9b/46e19bbeba74f6beb7b568af9c89022e.jpg" alt="s2" style="display: inline-block; vertical-align: top; width: 45%; height: auto;">
-    </div><br>
+        <img src="https://i.pinimg.com/originals/08/76/2b/08762bdf900ab4909bd3262afbf4edc5.jpg" alt="s1" style="display: inline-block; vertical-align: top; width: 45%; height: auto;">
+        <img src="https://i.pinimg.com/originals/b8/d9/d3/b8d9d3a75aec63aca1791096b0e6c142.jpg" alt="s2" style="display: inline-block; vertical-align: top; width: 45%; height: auto;">
+    </div>
     <p>"We want to maintain our identity as a simple samgyupsal restaurant with the use of pallets for our tables and chairs, complemented by the warm glow of aesthetic lights. This combination not only reflects our commitment to a cozy and inviting atmosphere but also emphasizes the rustic charm that makes our dining experience unique. Our goal is to create a space where customers feel at home, enjoying authentic flavors in a setting that’s both relaxed and visually appealing. As we move forward, preserving this ambiance will remain at the heart of our brand, ensuring that each visit is as memorable as the first."</p>
     <br>
 </body>
