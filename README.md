@@ -24,7 +24,7 @@
     <h2 id="proposal">INTERIOR CONCEPT</h2>
     <br>
     <div style="text-align: center;">
-        <img src="https://i.pinimg.com/originals/08/76/2b/08762bdf900ab4909bd3262afbf4edc5.jpg" alt="s1" style="display: inline-block; vertical-align: top; width: 45%; height: auto;">
+        <img src="https://i.pinimg.com/originals/08/76/2b/08762bdf900ab4909bd3262afbf4edc5.jpg" alt="s1" style="display: inline-block; vertical-align: top; width: 50%; height: auto;">
         <img src="https://i.pinimg.com/originals/46/e1/9b/46e19bbeba74f6beb7b568af9c89022e.jpg" alt="s2" style="display: inline-block; vertical-align: top; width: 45%; height: auto;">
     </div>
     <p>"We want to maintain our identity as a simple samgyupsal restaurant with the use of pallets for our tables and chairs, complemented by the warm glow of aesthetic lights. This combination not only reflects our commitment to a cozy and inviting atmosphere but also emphasizes the rustic charm that makes our dining experience unique. Our goal is to create a space where customers feel at home, enjoying authentic flavors in a setting that’s both relaxed and visually appealing. As we move forward, preserving this ambiance will remain at the heart of our brand, ensuring that each visit is as memorable as the first."</p>
