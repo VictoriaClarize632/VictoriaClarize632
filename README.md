@@ -23,8 +23,8 @@
         <strong>New Location:</strong> Maria Clara, Iloilo City<br> 
         <strong>Specialty:</strong> Marinated pork, chicken, and beef with 5 varieties of side dishes<br>
         <strong>Concept:</strong> Korean-inspired<br>
-        <strong>Restaurant Theme:</strong> Pallets with simple aesthetic lighting<br>
-        <p><a href="https://facebook.com/bangketesamgyupsal" target="_blank">Facebook</a></p>
+        <strong>Restaurant Theme:</strong> Pallets with simple aesthetic lighting
+       <p> Social Media <a href="https://facebook.com/bangketesamgyupsal" target="_blank">Facebook</a></p>
 </p>
     <h2 id="proposal">INTERIOR CONCEPT</h2>
     <br>
