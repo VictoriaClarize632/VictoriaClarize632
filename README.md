@@ -23,6 +23,6 @@
         <strong>Concept:</strong> Korean-inspired<br>
         <strong>Restaurant Theme:</strong> Pallets with simple aesthetic lighting<br>
     </p>
-    <h2 id="proposal"> Proposal <br><img src="https://i.pinimg.com/originals/08/76/2b/08762bdf900ab4909bd3262afbf4edc5.jpg" alt="s1" class="image2"></h2>
+    <h2 id="proposal"> Proposal <br><br><img src="https://i.pinimg.com/originals/08/76/2b/08762bdf900ab4909bd3262afbf4edc5.jpg" alt="s1" class="image2"></h2>
     
 </html>
