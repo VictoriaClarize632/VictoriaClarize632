@@ -7,7 +7,7 @@
 <body>
     <h1>A Walkthrough of My Business Journey: Small Samgyupsal Business</h1>
     <div style="text-align: center;">
-        <img src="https://i.pinimg.com/originals/2e/9c/b5/2e9cb5c4d02abad033e3f98b4b2b6cae.jpg" alt="samgyupsal" style="display: inline-block; width: 33%; height: auto;">
+        <img src="https://i.pinimg.com/originals/2e/9c/b5/2e9cb5c4d02abad033e3f98b4b2b6cae.jpg" alt="samgyupsal" style="display: inline-block; width: 34%; height: auto;">
         <img src="https://i.pinimg.com/originals/90/e8/b9/90e8b916674d55f4ca6bd457dca0ccf2.jpg" alt="s1" style="display: inline-block; width: 32%; height: auto;">
         <img src="https://i.pinimg.com/originals/0f/23/df/0f23dff9cbae62ef6a378c0daab50ced.jpg" alt="s2" style="display: inline-block; width: 32%; height: auto;">
     </div><br>
